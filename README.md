@@ -1,1 +1,2 @@
-# HySPI_webapp
+# HySPI_app
+HySPI project app
